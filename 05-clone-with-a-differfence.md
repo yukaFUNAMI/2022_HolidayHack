@@ -1,5 +1,5 @@
 
-A maintainers
+maintainers
 
 ```
 git clone https://haugfactory.com/asnowball/aws_scripts.git
