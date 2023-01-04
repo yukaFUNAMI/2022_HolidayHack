@@ -71,8 +71,6 @@ remote: HTTP Basic: Access denied. The provided password or token is incorrect o
 ```
 IDとパスワードがわからないのでSSH鍵でPUSHする方法を探した
 
-I don't know my ID and password, so I looked for a way to PUSH with my SSH key.
-
 https://docs.gitlab.com/ee/user/ssh.html
 
 ```
@@ -126,12 +124,4 @@ grinchum-land:~/wordpress.flag.net.internal$ curl http://wordpress.flag.net.inte
 要求されてる方向性がわからず、３日かかった。
 
 あとGitLabのレポジトリをHTTPからSSHへ変更するとこで１日はまった。公式ドキュメント神。
-
-I tried to use ReversShell as usual, but it was too heavy and didn't work, so I used a PHP one-liner.
-
-It took me 3 days to figure out how to go the direction.
-
-Also, I got stuck for a all day when I had to change GitLab repository from HTTP to SSH. 
-
-The official documentation is god.
 
