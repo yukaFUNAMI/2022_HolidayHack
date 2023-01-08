@@ -10,4 +10,7 @@
 
 ありがとうございました（おかげさまでなんとか今年は完走、記念ぱぴこ）。
 
+許可なくリンク、転載しないでください。よろしくお願いします。
+Please do not link to this site without permission.Thank you for your cooperation.
+
 ![image](https://user-images.githubusercontent.com/6504854/210521073-37809525-8505-4299-9560-1717c0b3ac5f.png)
